@@ -1,6 +1,6 @@
 # immutable-cpp
 
-A header only metaprogrammng library.
+A header only meta-programming library.
 
 Try to provide the same functions as [immutability-helper](https://github.com/kolodny/immutability-helper).
 
